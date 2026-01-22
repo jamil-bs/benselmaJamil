@@ -310,7 +310,7 @@ Patterns: Multi-tenant · Layered Architecture · DI · Service Abstraction · R
 
 ---
 
-### 🔥 Trouver une Assmat (Minosphère) — B2C SaaS Platform
+### 🔥 Classifieds App (Minosphère) — B2C SaaS Platform
 
 > **Connecting parents with certified childcare providers**  
 > 📅 2024-2025
