@@ -8,9 +8,7 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-benselma.djamil%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benselma.djamil@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-benselmajamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benselmajamil)
-[![Phone](https://img.shields.io/badge/Téléphone-06.29.53.53.11-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33629535311)
 
 📍 **France** (Mobilité nationale, Remote OK) · 🚗 Permis B, Véhiculé
 
